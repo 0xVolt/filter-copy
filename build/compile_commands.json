@@ -1,7 +1,0 @@
-[
-{
-  "directory": "C:/Users/deshi/Code/gnuplot-pipeline-test/build",
-  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\main.dir\\main.cpp.obj -c C:\\Users\\deshi\\Code\\gnuplot-pipeline-test\\main.cpp",
-  "file": "C:/Users/deshi/Code/gnuplot-pipeline-test/main.cpp"
-}
-]

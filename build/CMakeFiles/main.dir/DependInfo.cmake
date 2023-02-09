@@ -8,7 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/deshi/Code/gnuplot-pipeline-test/main.cpp" "CMakeFiles/main.dir/main.cpp.obj" "gcc" "CMakeFiles/main.dir/main.cpp.obj.d"
+  "/home/volt/code/filter-coffee/main.cpp" "CMakeFiles/main.dir/main.cpp.o" "gcc" "CMakeFiles/main.dir/main.cpp.o.d"
+  "/home/volt/code/filter-coffee/source/FIR.cpp" "CMakeFiles/main.dir/source/FIR.cpp.o" "gcc" "CMakeFiles/main.dir/source/FIR.cpp.o.d"
   )
 
 # Targets to which this target links.
