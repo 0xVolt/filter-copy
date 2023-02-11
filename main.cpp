@@ -1,9 +1,7 @@
 #include "include/FIR.h"
-
 using namespace std;
 
-int main(int argv, char *argc[])
-{
+int main(int argv, char *argc[]) {
     // cout << "Start of main function\n";
     int n = 1000;
 
