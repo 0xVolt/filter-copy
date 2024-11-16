@@ -71,7 +71,11 @@ This first image, shows us what the same signal will look like in both the time 
 
 ![Frequency representations of two sinusoidal signals](assets/time-domain-vs-freq.png)
 
+Taking this a step further, here are pictorial representations of how a signal is decomposed using a Fourier transform, into it's constituent sinusoidal waves. These waves can then be plotted by their amplitude in the frequency domain from the time domain of the first wave.
 
+![](assets/mapping-fourier-transform-to-freq.png)
+
+![](assets/decomposing-with-fourier-transforms.png)
 
 
 ### Digital and Analog Signals
