@@ -65,7 +65,13 @@ There are two domains of a signal, a time domain and a frequency domain.
 
 Refer to this [article](https://learnemc.com/time-frequency-domain) for a more comprehensive look on what the different domains are and how their conversions are made simple by fourier transforms.
 
-The following visuals are the key to understanding the difference between the two domains of signals
+The following visuals are the key to understanding the difference between the two domains of signals and how they are interlinked.
+
+This first image, shows us what the same signal will look like in both the time and frequency domains. This is the frequency space representation of two sinusoidal signals. 
+
+![Frequency representations of two sinusoidal signals](assets/time-domain-vs-freq.png)
+
+
 
 
 ### Digital and Analog Signals
