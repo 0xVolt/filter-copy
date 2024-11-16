@@ -5,8 +5,6 @@
 ## Table of Contents
 - [Constructing an FIR Filter in C++ and Gnuplot](#constructing-an-fir-filter-in-c-and-gnuplot)
   - [Table of Contents](#table-of-contents)
-  - [Objectives](#objectives)
-  - [Research Objectives](#research-objectives)
   - [About this repository](#about-this-repository)
   - [Filtering as a sub-domain of DSP](#filtering-as-a-sub-domain-of-dsp)
   - [Study](#study)
@@ -19,7 +17,7 @@
       - [What's the difference?](#whats-the-difference)
   - [Resources](#resources)
 
-## Objectives
+<!-- ## Objectives
 - [ ] Input and analyse signals
 - [ ] Implement an FIR (low band-pass) filter on the signal
 - [ ] Plot both original and processed signals using gnuplot
@@ -39,7 +37,7 @@
 - [ ] Data pre-processing and data cleaning
   - [ ] Filtering - Conclusion from the minor project
 - [ ] Feature extraction
-- [ ] Machine Learning - Classification of brain signals into moods/emotions
+- [ ] Machine Learning - Classification of brain signals into moods/emotions -->
 
 ## About this repository
 This minor project in Digital Signal Processing (DSP) is to implement a Finite Impulse Response (FIR) filtering application of continuous data in C++ using the concept of a circular buffer.
